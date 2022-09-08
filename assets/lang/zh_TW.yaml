@@ -16,7 +16,7 @@ license: 版權許可
 eula: 最終用戶許可協議
 history of incidents: 意外日誌
 privacy and security: 隱私和安全
-inspired by: 啟發來自
+inspired by [%a][%b]avdan[%b][%a]: 啟發來自[%a][%b]Avdan[%b][%a]
 avdanos contributors: AvdanOS 貢獻者
 # alert.tsx
 is still in development.: 仍在開發中。
@@ -34,6 +34,13 @@ demo: 演示
 your pc but even better!: 您的個人電腦，但是更好。
 try in your browser: 在瀏覽器內試試
 download now!: 立即下載
+# miniFeaures.tsx
+workflow redefined: 工作流程全新定義
+time is priceless, and there is so little time. with right tools and professional workspace, every task is simple as pie for the least amount of time!: 時間是無價的，我們的時間真的太少了。使用正確的工具和專業的工具，每項任務都可以在最短的時間內輕鬆完成！
+check what avdanos offers to you.: 看看 AvdanOS 為您提供什麼
+see here: 看這裡
+open projects with open community: 在開放社群中的開放計劃
+interested? give it a try!: 感興趣嗎？試試看吧！
 # discover.tsx
 open source on github: 在Github上開源
 browse all repos: 瀏覽所有存儲庫
@@ -98,13 +105,13 @@ yes, i understand: 是的，我同意
 use torrent download: 使用激流下載
 continue: 繼續
 # in testing
-having trouble? click [%s]here[%s] to get help!: 遇到麻煩？按[%s]這裡[%s]獲取幫助！
+having trouble? click [%a]here[%a] to get help!: 遇到麻煩？按[%a]這裡[%a]獲取幫助！
 
 # support.tsx
 avdanos support: AvdanOS 支援
 contact us on social media: 在社交媒體上聯繫我們
 visit: 前往
-want to suggest anything to us? we always want to listen to the community. present your ideas [%s]here[%s].: 想要給我們建議？我們一直希望能聽到社群。請在[%s]這裡[%s]發布您的想法。
+want to suggest anything to us? we always want to listen to the community. present your ideas [%a]here[%a].: 想要給我們建議？我們一直希望能聽到社群。請在[%a]這裡[%a]發布您的想法。
 
 # support-beta.tsx
 avdanos support articles: AvdanOS 支援文章
@@ -123,12 +130,11 @@ open manual: 打開使用手冊
 manual is not available yet: 使用手冊尚不可用
 i'm a developer: 我是開發人員
 open documentation: 打開開發人員指南
-doc is not available yet: 開發人員指南尚不可用
 
 # demo.tsx
 # "Try in your browser." is in index.tsx
 full screen: 全螢幕
-this demo is open source on [%s]github[%s].: 此演示是開源的，您可以在[%s]GitHub[%s]上查看。
+this demo is open source on [%a]github[%a].: 此演示是開源的，您可以在[%a]GitHub[%a]上查看。
 
 # 404.tsx
 page not found: 找不到這個頁面
